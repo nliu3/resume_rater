@@ -1,0 +1,30 @@
+Name: Samantha Mitchell
+
+Skills Summary:
+
+Code Architecture: Extensive experience in designing and implementing scalable and maintainable code architectures for complex software systems.
+Full Stack Development: Proficient in HTML, CSS, JavaScript, jQuery, React, Angular, Vue.js, Bootstrap, and responsive design for building intuitive and user-friendly interfaces.
+Backend Technologies: Strong expertise in Java, Python, Ruby, C#, PHP, Node.js, Express.js, Django, Flask, and Laravel for server-side development and building RESTful APIs.
+Database Management: Deep understanding of SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Oracle, with expertise in efficient data modeling and management.
+Cloud Computing and DevOps: Skilled in deploying and managing applications on cloud platforms like AWS, Azure, and Google Cloud, utilizing infrastructure-as-code, containerization (Docker, Kubernetes), and automation (Ansible, Terraform) for scalability and efficiency.
+System Administration and Security: Proficient in Linux, shell scripting, Windows Server administration, network administration, and implementing robust security measures to protect data and systems.
+Agile Methodologies and Project Management: Experienced in Scrum, Kanban, and Waterfall methodologies, with strong project management skills including stakeholder management, resource allocation, risk assessment, and budgeting.
+Technical Leadership and Team Management: Demonstrated ability to lead and mentor development teams, fostering collaboration, making technical decisions, and driving project success.
+Quality Assurance and Testing: Experience in frontend and backend testing, including unit testing, integration testing, and test automation, ensuring code quality and reliability.
+Documentation and Communication: Excellent written and verbal communication skills, with a focus on technical documentation, cross-functional collaboration, and effective communication with team members and stakeholders.
+Project Experience:
+
+Enterprise E-commerce Platform (Java Spring, React, MySQL, AWS):
+
+Led the code architecture design and development of a scalable and modular e-commerce platform.
+Utilized Java Spring framework for backend development, including RESTful API implementation and server-side rendering.
+Designed and implemented a responsive and user-friendly frontend using React and UI frameworks.
+Optimized database queries and implemented caching mechanisms for improved performance.
+Deployed the application on AWS, utilizing services like EC2, RDS, and S3, ensuring high availability and scalability.
+Data Analytics and Visualization Dashboard (Python, Flask, PostgreSQL, Tableau):
+
+Developed a data analytics and visualization dashboard for a financial analytics company.
+Utilized Python and Flask framework for backend development, including data processing, ETL, and RESTful API implementation.
+Designed and optimized the database schema using PostgreSQL for efficient data storage and retrieval.
+Integrated Tableau for interactive data visualization and implemented user authentication and authorization.
+Collaborated with data scientists and analysts to understand requirements and ensure accurate data representation.

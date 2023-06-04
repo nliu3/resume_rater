@@ -1,0 +1,28 @@
+Name: Emily Chen
+
+Skills Summary:
+
+Frontend Development: Proficient in HTML, CSS, and JavaScript, with experience in frameworks such as React, Angular, and Vue.js.
+Responsive Design: Skilled in creating mobile-first and responsive web applications to ensure a seamless user experience across devices.
+UI/UX: Knowledgeable in user interface (UI) and user experience (UX) design principles, with a focus on creating visually appealing and intuitive interfaces.
+Version Control and Collaboration: Experienced in using Git for version control and collaborating with teams using platforms like GitLab or GitHub.
+Problem Solving and Debugging: Strong problem-solving skills and ability to debug and resolve frontend issues efficiently.
+Experience:
+
+Frontend Developer
+ABC Company | May 2020 - Present
+
+Developed responsive and user-friendly web applications using HTML, CSS, and JavaScript, ensuring cross-browser compatibility and accessibility standards.
+Implemented frontend functionalities using React and Angular, integrating RESTful APIs and JSON data for dynamic content rendering.
+Collaborated with UI/UX designers to implement intuitive and visually appealing user interfaces, following best practices and design guidelines.
+Conducted frontend testing and debugging to identify and fix issues, ensuring smooth and error-free user experiences.
+Worked closely with backend developers to integrate frontend components with server-side technologies like Node.js and Express.js.
+Education:
+
+Bachelor of Science in Computer Science
+XYZ University | May 2020
+
+Languages:
+
+English (Fluent)
+Chinese (Native)

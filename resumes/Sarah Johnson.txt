@@ -1,0 +1,33 @@
+Name: Sarah Johnson
+
+Skills Summary:
+
+DevOps Methodologies: Experienced in implementing DevOps practices and principles, focusing on collaboration, automation, and continuous integration/continuous deployment (CI/CD).
+Cloud Platforms: Proficient in deploying and managing applications on AWS, Azure, and Google Cloud, utilizing infrastructure as code (IaC) tools like Terraform and configuration management tools like Ansible.
+Containerization and Orchestration: Skilled in Docker for containerization and Kubernetes for orchestration, enabling scalable and portable application deployments.
+CI/CD Pipelines: Experienced in setting up and maintaining CI/CD pipelines using tools such as GitLab, CircleCI, and Jenkins for automated building, testing, and deployment.
+Monitoring and Logging: Proficient in implementing monitoring and logging solutions using tools like New Relic, Nagios, Grafana, and ELK Stack for performance monitoring and issue resolution.
+Experience:
+
+DevOps Engineer
+XYZ Company | May 2019 - Present
+
+Implemented CI/CD pipelines using GitLab CI/CD, enabling automated builds, tests, and deployments, resulting in increased development efficiency and reduced time-to-market.
+Orchestrated containerized applications using Kubernetes, improving scalability and facilitating smooth deployment and management of microservices architecture.
+Collaborated with development and operations teams to automate infrastructure provisioning using Terraform, reducing manual effort and ensuring infrastructure consistency.
+Developed Ansible playbooks for configuration management, automating server configurations and ensuring consistency across environments.
+Implemented monitoring and logging solutions using New Relic, Nagios, and ELK Stack, enabling proactive identification and resolution of performance issues.
+Worked closely with cross-functional teams to optimize application performance, enhance security, and improve overall system stability.
+Education:
+
+Bachelor of Science in Computer Science
+ABC University | May 2019
+
+Certifications:
+
+AWS Certified DevOps Engineer
+Certified Kubernetes Administrator (CKA)
+Languages:
+
+English (Fluent)
+Chinese (Native)

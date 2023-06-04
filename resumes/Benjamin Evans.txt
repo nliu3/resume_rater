@@ -1,0 +1,30 @@
+Name: Benjamin Evans
+
+Skills Summary:
+
+Infrastructure Design and Architecture: Extensive experience in designing and implementing scalable and reliable infrastructure solutions for complex software systems.
+Cloud Computing: Proficient in AWS, Azure, and Google Cloud platforms, including infrastructure setup, virtualization, networking, and services such as EC2, S3, VPC, and GCP.
+DevOps and Automation: Skilled in implementing and managing CI/CD pipelines, utilizing tools like Jenkins, GitLab, CircleCI, and TravisCI for efficient code deployment and automation.
+Containerization and Orchestration: Expertise in Docker and Kubernetes for containerization, orchestration, and scalable deployment of microservices and applications.
+Infrastructure as Code (IaC): Strong understanding of IaC principles using tools like Ansible, Chef, Puppet, and Terraform for efficient configuration management and infrastructure provisioning.
+System Administration and Monitoring: Proficient in Linux and Windows server administration, with experience in monitoring tools such as New Relic, Nagios, Grafana, and Prometheus for proactive system monitoring and performance optimization.
+Security and Compliance: Knowledgeable in implementing robust security measures, including access control, encryption, and compliance with industry standards and regulations.
+Database Management: Expertise in SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Oracle, with experience in data modeling and optimization.
+Networking and Load Balancing: Proficient in network administration, load balancing techniques, and implementing high availability solutions for distributed systems.
+Technical Leadership and Project Management: Skilled in leading technical teams, managing projects, and ensuring successful delivery through effective planning, time management, and change management.
+Project Experience:
+
+Microservices Architecture and Cloud Migration (AWS, Docker, Kubernetes):
+
+Led the design and implementation of a microservices-based architecture for a large-scale e-commerce platform.
+Utilized AWS services such as EC2, S3, RDS, and Lambda for building a scalable and highly available infrastructure.
+Containerized applications using Docker and orchestrated them with Kubernetes for seamless deployment and scalability.
+Implemented infrastructure monitoring and logging using tools like Prometheus, ELK Stack, and Splunk for real-time visibility and troubleshooting.
+Collaborated with development teams to ensure smooth migration of monolithic applications to the microservices architecture.
+Infrastructure Automation and Configuration Management (Ansible, Terraform, Jenkins):
+
+Developed an automated infrastructure provisioning and configuration management solution for a software development company.
+Utilized Ansible and Terraform for provisioning and configuring infrastructure resources on AWS.
+Implemented CI/CD pipelines using Jenkins for automated deployment and continuous integration of applications.
+Orchestrated infrastructure changes and performed configuration drift remediation using version-controlled Ansible playbooks.
+Improved infrastructure scalability, reliability, and cost-efficiency through automation and streamlined deployment processes.

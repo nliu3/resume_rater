@@ -1,0 +1,30 @@
+Name: David Johnson
+
+Skills Summary:
+
+Backend Development: Proficient in Java, Python, and Ruby for building robust and scalable backend applications.
+Web Technologies: Experienced in HTML, CSS, JavaScript, and jQuery for creating interactive and user-friendly web interfaces.
+Frameworks: Skilled in using popular frameworks such as Django, Flask, and Express.js for efficient backend development.
+Database Management: Strong knowledge of SQL and NoSQL databases, including MySQL, PostgreSQL, MongoDB, and Redis, for effective data storage and retrieval.
+API Development: Experienced in designing and implementing RESTful APIs, utilizing technologies like Node.js, Express.js, and ASP.NET.
+Version Control and Collaboration: Proficient in using Git for version control and collaborating with team members on projects.
+Cloud Computing: Familiarity with cloud platforms like AWS, Azure, and Google Cloud, including deployment and management of applications.
+Testing and Debugging: Skilled in frontend and backend testing techniques, including unit testing, integration testing, and debugging.
+Problem Solving: Strong analytical and problem-solving skills to identify and resolve technical issues efficiently.
+Communication and Collaboration: Excellent communication skills with the ability to work collaboratively in cross-functional teams.
+Project Experience:
+
+E-commerce Platform Development (Java, Spring, MySQL, Bootstrap):
+
+Led a team of developers in building a robust and scalable e-commerce platform.
+Developed backend functionalities, including product catalog management, user authentication, and order processing.
+Implemented RESTful APIs for seamless communication between the frontend and backend systems.
+Utilized Java Spring framework for efficient development and MySQL database for data storage.
+Integrated Bootstrap framework for responsive design and improved user experience.
+Microservices Architecture Implementation (Python, Flask, MongoDB):
+
+Designed and developed a microservices architecture for a scalable web application.
+Implemented various microservices using Python and Flask framework, each responsible for specific functionalities.
+Utilized MongoDB for efficient data storage and retrieval across different services.
+Implemented RESTful APIs and ensured seamless communication and data consistency between services.
+Deployed and managed the application on cloud platforms like AWS, leveraging containerization using Docker and orchestration using Kubernetes.

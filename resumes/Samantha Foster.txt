@@ -1,0 +1,30 @@
+Name: Samantha Foster
+
+Skills Summary:
+
+Technical Leadership and Team Management: Proven track record in leading and managing high-performing technical teams, fostering collaboration, and driving successful project delivery.
+Project Management: Proficient in agile methodologies such as Scrum and Kanban, with expertise in project planning, resource allocation, budgeting, risk assessment, and stakeholder management.
+Full Stack Development: Strong proficiency in frontend technologies like HTML, CSS, JavaScript, and UI frameworks, coupled with backend skills in Java, Python, Ruby, and C#.
+Cloud Computing and DevOps: Extensive experience in designing and implementing cloud-based solutions using AWS, Azure, and Google Cloud, along with expertise in DevOps tools like GitLab, CircleCI, Ansible, and Jenkins.
+Microservices Architecture and Scalability: In-depth knowledge of microservices architecture, API design, and scalable system development using technologies such as Node.js, Express.js, and containerization platforms like Docker and Kubernetes.
+Data Engineering and Analytics: Skilled in big data analysis, data modeling, ETL processes, and data visualization using tools like Hadoop, Spark, Tableau, and Power BI.
+Security and Compliance: Proficient in implementing robust security measures, ensuring data privacy, and compliance with industry standards and regulations.
+Technical Documentation and Communication: Excellent written and verbal communication skills, with expertise in technical documentation, cross-functional collaboration, and effective communication with stakeholders.
+Quality Assurance and Testing: Experience in implementing frontend and backend testing frameworks, ensuring code quality, and performing thorough debugging and troubleshooting.
+Leadership Skills and Decision Making: Strong leadership abilities, adept at making critical decisions, problem-solving, and driving technical innovation within the organization.
+Project Experience:
+
+Cloud Migration and Infrastructure Automation (AWS, Docker, Terraform):
+
+Led a team of engineers in migrating a legacy monolithic application to a scalable and cloud-native microservices architecture on AWS.
+Utilized containerization with Docker for application deployment and orchestration.
+Implemented infrastructure as code (IaC) using Terraform, automating the provisioning and configuration of cloud resources.
+Designed and implemented scalable and secure APIs using technologies like Node.js, Express.js, and RESTful principles.
+Ensured high availability, fault tolerance, and disaster recovery capabilities by leveraging AWS services like EC2, S3, RDS, and CloudWatch.
+Data Analytics Platform Development (Hadoop, Spark, Python, Tableau):
+
+Oversaw the development of a data analytics platform for a large e-commerce company, enabling real-time data processing and visualization.
+Designed and implemented a distributed computing solution using Hadoop and Spark for handling large-scale data processing and analytics.
+Utilized Python for data engineering tasks, including ETL processes, data transformation, and statistical modeling.
+Developed interactive data visualizations and dashboards using Tableau, providing actionable insights to stakeholders.
+Ensured data security and privacy by implementing access controls, encryption, and compliance with data protection regulations.
